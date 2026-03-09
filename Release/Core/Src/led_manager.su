@@ -1,0 +1,8 @@
+../Core/Src/led_manager.c:15:6:LED_Init	8	static
+../Core/Src/led_manager.c:20:6:LED_SetLimits	0	static
+../Core/Src/led_manager.c:27:6:LED_SetMute	8	static
+../Core/Src/led_manager.c:34:6:LED_ToggleHeartbeat	0	static
+../Core/Src/led_manager.c:38:6:LED_SetFpgaReady	0	static
+../Core/Src/led_manager.c:42:6:LED_SetOverride	0	static
+../Core/Src/led_manager.c:47:6:LED_PWM_Tick	16	static
+../Core/Src/led_manager.c:64:6:LED_GetStatus	8	static

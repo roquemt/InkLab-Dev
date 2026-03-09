@@ -1,0 +1,4 @@
+../Core/Src/fpga.c:23:6:HAL_SPI_TxCpltCallback	3
+../Core/Src/fpga.c:35:6:HAL_SPI_TxRxCpltCallback	1
+../Core/Src/fpga.c:62:19:FPGA_Program_Slot	12
+../Core/Src/fpga.c:136:6:FPGA_PowerDown	1

@@ -1,0 +1,7 @@
+../Core/Src/diagnostics.c:21:6:Diag_RunI2CBenchmark	3
+../Core/Src/diagnostics.c:51:6:Diag_RunSPIBenchmark	3
+../Core/Src/diagnostics.c:77:6:Diag_RunSPIBulk	4
+../Core/Src/diagnostics.c:106:6:Diag_RunSDCardTest	5
+../Core/Src/diagnostics.c:149:6:Diag_RunRawSpeedTest	7
+../Core/Src/diagnostics.c:192:6:Diag_RunRawSectorTest	3
+../Core/Src/diagnostics.c:207:6:Diag_RunUSBReadTest	5

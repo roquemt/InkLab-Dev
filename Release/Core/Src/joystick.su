@@ -1,0 +1,4 @@
+../Core/Src/joystick.c:10:6:Joystick_Init	0	static
+../Core/Src/joystick.c:14:6:Joystick_SetMap	0	static
+../Core/Src/joystick.c:20:15:Joystick_GetMap	16	static
+../Core/Src/joystick.c:24:13:Joystick_Process	40	static

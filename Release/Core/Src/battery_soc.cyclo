@@ -1,0 +1,2 @@
+../Core/Src/battery_soc.c:22:6:BatterySOC_Init	1
+../Core/Src/battery_soc.c:44:6:BatterySOC_Update	11

@@ -1,0 +1,9 @@
+../Core/Src/powerMonitor.c:41:26:Write16	2
+../Core/Src/powerMonitor.c:27:26:Read16	3
+../Core/Src/powerMonitor.c:56:19:PowerMonitor_Init	4
+../Core/Src/powerMonitor.c:79:19:PowerMonitor_Read	4
+../Core/Src/powerMonitor.c:101:19:PowerMonitor_SetPGA	3
+../Core/Src/powerMonitor.c:113:19:PowerMonitor_AutoScale	17
+../Core/Src/powerMonitor.c:147:19:PowerMonitor_SetFastMode	3
+../Core/Src/powerMonitor.c:165:19:PowerMonitor_SetSleep	3
+../Core/Src/powerMonitor.c:177:19:PowerMonitor_TriggerSingleShot	2

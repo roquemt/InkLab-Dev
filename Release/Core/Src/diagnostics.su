@@ -1,0 +1,7 @@
+../Core/Src/diagnostics.c:21:6:Diag_RunI2CBenchmark	56	static
+../Core/Src/diagnostics.c:51:6:Diag_RunSPIBenchmark	144	static
+../Core/Src/diagnostics.c:77:6:Diag_RunSPIBulk	24	static
+../Core/Src/diagnostics.c:106:6:Diag_RunSDCardTest	688	static
+../Core/Src/diagnostics.c:149:6:Diag_RunRawSpeedTest	656	static
+../Core/Src/diagnostics.c:192:6:Diag_RunRawSectorTest	24	static
+../Core/Src/diagnostics.c:207:6:Diag_RunUSBReadTest	640	static

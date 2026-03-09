@@ -1,0 +1,2 @@
+../Core/Src/ota.c:111:6:OTA_Printf	3
+../Core/Src/ota.c:16:19:OTA_Update_From_SD	15

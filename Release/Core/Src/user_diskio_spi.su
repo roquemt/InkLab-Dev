@@ -1,0 +1,15 @@
+../Core/Src/user_diskio_spi.c:90:13:xchg_spi	32	static
+../Core/Src/user_diskio_spi.c:210:13:despiselect	8	static
+../Core/Src/user_diskio_spi.c:78:13:safe_delay.constprop	8	static
+../Core/Src/user_diskio_spi.c:190:12:wait_ready.constprop	16	static
+../Core/Src/user_diskio_spi.c:215:12:spiselect	8	static
+../Core/Src/user_diskio_spi.c:268:13:send_cmd	16	static
+../Core/Src/user_diskio_spi.c:251:12:xmit_datablock	32	static
+../Core/Src/user_diskio_spi.c:226:12:rcvr_datablock	32	static
+../Core/Src/user_diskio_spi.c:24:6:Init_SPI_DMA_Semaphore	32	static
+../Core/Src/user_diskio_spi.c:306:16:USER_SPI_initialize	40	static
+../Core/Src/user_diskio_spi.c:356:16:USER_SPI_status	0	static
+../Core/Src/user_diskio_spi.c:361:16:USER_SPI_read	16	static
+../Core/Src/user_diskio_spi.c:385:16:USER_SPI_write	16	static
+../Core/Src/user_diskio_spi.c:412:16:USER_SPI_ioctl	40	static
+../Core/Src/user_diskio_spi.c:472:6:USER_SPI_ResetStatus	0	static

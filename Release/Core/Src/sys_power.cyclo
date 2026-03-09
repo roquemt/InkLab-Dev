@@ -1,0 +1,3 @@
+../Core/Src/sys_power.c:32:6:SysPower_IsSleeping	1
+../Core/Src/sys_power.c:36:6:SysPower_EnterSleep	2
+../Core/Src/sys_power.c:54:6:SysPower_Wake	3

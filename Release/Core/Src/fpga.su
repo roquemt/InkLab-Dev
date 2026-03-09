@@ -1,0 +1,4 @@
+../Core/Src/fpga.c:23:6:HAL_SPI_TxCpltCallback	8	static
+../Core/Src/fpga.c:35:6:HAL_SPI_TxRxCpltCallback	8	static
+../Core/Src/fpga.c:62:19:FPGA_Program_Slot	656	static
+../Core/Src/fpga.c:136:6:FPGA_PowerDown	8	static

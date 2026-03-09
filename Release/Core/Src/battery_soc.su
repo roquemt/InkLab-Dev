@@ -1,0 +1,2 @@
+../Core/Src/battery_soc.c:22:6:BatterySOC_Init	0	static
+../Core/Src/battery_soc.c:44:6:BatterySOC_Update	48	static

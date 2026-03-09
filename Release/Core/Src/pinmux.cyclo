@@ -1,0 +1,9 @@
+../Core/Src/pinmux.c:48:12:GetPinIndex	3
+../Core/Src/pinmux.c:268:13:GPIO_Toggle_Callback	1
+../Core/Src/pinmux.c:65:19:Pinmux_SetPin	18
+../Core/Src/pinmux.c:169:6:Pinmux_GetInputTelemetryJson	4
+../Core/Src/pinmux.c:192:6:EXT_UART_Tx	2
+../Core/Src/pinmux.c:202:6:EXT_I2C_Write	3
+../Core/Src/pinmux.c:213:6:EXT_GPIO_Write	5
+../Core/Src/pinmux.c:242:6:EXT_ADC_Read	5
+../Core/Src/pinmux.c:273:6:EXT_GPIO_Toggle	6
